@@ -1,4 +1,4 @@
-## Big_Data - Alexa, can you handle big data?
+## Big_Data - Can you handle big data?
 
 
     To perform the ETL process completely in the cloud and upload a DataFrame to an RDS instance. To use PySpark or SQL to perform a statistical analysis of selected data.
